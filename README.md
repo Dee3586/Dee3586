@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dee3586
+- 👋 Hi, I’m @OluwakemiThompson3586
 - 👀 I’m interested in Data Analysis using MSExcel, visualization, and Statistical Analysis
 - 🌱 I'm looking to collaborate on projects related to data Analysis
 - 📫 You can reach me through my email: dammythompson23@gmail.com
